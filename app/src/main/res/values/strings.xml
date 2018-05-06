@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nola Bakery</string>
+    <string name="description">NOLA Cupcakes\' philosophy is simple: we aim to please. By freshly baking our gourmet cupcakes daily using only the best ingredients, we guarantee a delicious and uplifting experience for each customer. By being socially responsible, we do our best to help develop our communities in a partnership with respected charities and non-profit organizations. We believe these activities go hand in hand to give Cairo the best of life\'s little pleasures.</string>
+    <string name="phone_number">02 33336860</string>
+    <string name="address">12 Brazil St, Zamalek، Cairo، Giza Governorate</string>
+    <string name="email">info@nolabakery.com</string>
+    <string name="website">http://www.nolabakery.com/</string>
+    <string name="hours_operation">Hours operation : 9 AM - 11 PM</string>
+</resources>
